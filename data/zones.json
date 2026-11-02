@@ -1,0 +1,101 @@
+[
+  {
+    "id": "east",
+    "name": "Восток",
+    "color": "#5f8f84",
+    "cx": 520,
+    "cy": 680,
+    "radius": 340,
+    "layout": "ring"
+  },
+  {
+    "id": "antiquity",
+    "name": "Античность",
+    "color": "#c6a15c",
+    "cx": 1680,
+    "cy": 720,
+    "radius": 380,
+    "layout": "ring"
+  },
+  {
+    "id": "rationalism",
+    "name": "Рационализм",
+    "color": "#6a90a8",
+    "cx": 2920,
+    "cy": 680,
+    "radius": 280,
+    "layout": "ring"
+  },
+  {
+    "id": "german",
+    "name": "Немецкая мысль",
+    "color": "#5c6c7c",
+    "cx": 4200,
+    "cy": 740,
+    "radius": 360,
+    "layout": "ring"
+  },
+  {
+    "id": "theology",
+    "name": "Теология",
+    "color": "#8d739c",
+    "cx": 520,
+    "cy": 1960,
+    "radius": 340,
+    "layout": "ring"
+  },
+  {
+    "id": "existential",
+    "name": "Экзистенциализм",
+    "color": "#8f7c86",
+    "cx": 1680,
+    "cy": 2000,
+    "radius": 300,
+    "layout": "ring"
+  },
+  {
+    "id": "politics",
+    "name": "Политика",
+    "color": "#b06a58",
+    "cx": 3000,
+    "cy": 2050,
+    "radius": 430,
+    "layout": "ring"
+  },
+  {
+    "id": "mysticism",
+    "name": "Мистика",
+    "color": "#5d7358",
+    "cx": 4300,
+    "cy": 1960,
+    "radius": 280,
+    "layout": "ring"
+  },
+  {
+    "id": "russian",
+    "name": "Русская литература",
+    "color": "#b08458",
+    "cx": 520,
+    "cy": 3650,
+    "radius": 340,
+    "layout": "ring"
+  },
+  {
+    "id": "psychology",
+    "name": "Психология",
+    "color": "#6d8a62",
+    "cx": 1900,
+    "cy": 3720,
+    "radius": 680,
+    "layout": "ring"
+  },
+  {
+    "id": "economy",
+    "name": "Экономика",
+    "color": "#c6ae6a",
+    "cx": 4000,
+    "cy": 3800,
+    "radius": 820,
+    "layout": "ring"
+  }
+]

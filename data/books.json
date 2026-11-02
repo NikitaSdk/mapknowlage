@@ -1,0 +1,894 @@
+[
+  {
+    "id": "laozi-1",
+    "author_id": "laozi",
+    "title": "Дао Дэ Цзин",
+    "genre": "философия",
+    "order": 1
+  },
+  {
+    "id": "confucius-1",
+    "author_id": "confucius",
+    "title": "Лунь Юй («Суждения и беседы»)",
+    "genre": "философия",
+    "order": 1
+  },
+  {
+    "id": "socrates-1",
+    "author_id": "socrates",
+    "title": "Апология Сократа (Платон)",
+    "genre": "диалог",
+    "order": 1
+  },
+  {
+    "id": "socrates-2",
+    "author_id": "socrates",
+    "title": "Критон (Платон)",
+    "genre": "диалог",
+    "order": 2
+  },
+  {
+    "id": "socrates-3",
+    "author_id": "socrates",
+    "title": "Воспоминания о Сократе (Ксенофонт)",
+    "genre": "диалог",
+    "order": 3
+  },
+  {
+    "id": "plato-1",
+    "author_id": "plato",
+    "title": "Апология Сократа",
+    "genre": "диалог",
+    "order": 1
+  },
+  {
+    "id": "plato-2",
+    "author_id": "plato",
+    "title": "Государство",
+    "genre": "философия",
+    "order": 2
+  },
+  {
+    "id": "plato-3",
+    "author_id": "plato",
+    "title": "Пир",
+    "genre": "диалог",
+    "order": 3
+  },
+  {
+    "id": "aristotle-1",
+    "author_id": "aristotle",
+    "title": "Метафизика",
+    "genre": "философия",
+    "order": 1
+  },
+  {
+    "id": "aristotle-2",
+    "author_id": "aristotle",
+    "title": "Никомахова этика",
+    "genre": "этика",
+    "order": 2
+  },
+  {
+    "id": "aristotle-3",
+    "author_id": "aristotle",
+    "title": "Политика",
+    "genre": "политика",
+    "order": 3
+  },
+  {
+    "id": "diogenes-1",
+    "author_id": "diogenes",
+    "title": "Диоген Лаэртский. О жизни, учениях и изречениях знаменитых философов, книга VI",
+    "genre": "философия",
+    "order": 1
+  },
+  {
+    "id": "epicurus-1",
+    "author_id": "epicurus",
+    "title": "Письма к Менекею, Пифоклу и Геродоту",
+    "genre": "этика",
+    "order": 1
+  },
+  {
+    "id": "cicero-1",
+    "author_id": "cicero",
+    "title": "Об обязанностях",
+    "genre": "этика",
+    "order": 1
+  },
+  {
+    "id": "cicero-2",
+    "author_id": "cicero",
+    "title": "О старости",
+    "genre": "этика",
+    "order": 2
+  },
+  {
+    "id": "aurelius-1",
+    "author_id": "aurelius",
+    "title": "Наедине с собой",
+    "genre": "этика",
+    "order": 1
+  },
+  {
+    "id": "augustine-1",
+    "author_id": "augustine",
+    "title": "Исповедь",
+    "genre": "теология",
+    "order": 1
+  },
+  {
+    "id": "augustine-2",
+    "author_id": "augustine",
+    "title": "О граде Божьем",
+    "genre": "теология",
+    "order": 2
+  },
+  {
+    "id": "aquinas-1",
+    "author_id": "aquinas",
+    "title": "Сумма теологии",
+    "genre": "теология",
+    "order": 1
+  },
+  {
+    "id": "aquinas-2",
+    "author_id": "aquinas",
+    "title": "Сумма против язычников",
+    "genre": "теология",
+    "order": 2
+  },
+  {
+    "id": "castaneda-1",
+    "author_id": "castaneda",
+    "title": "Учение дона Хуана",
+    "genre": "эзотерика",
+    "order": 1
+  },
+  {
+    "id": "castaneda-2",
+    "author_id": "castaneda",
+    "title": "Путешествие в Икстлан",
+    "genre": "эзотерика",
+    "order": 2
+  },
+  {
+    "id": "gurdjieff-1",
+    "author_id": "gurdjieff",
+    "title": "Встречи с замечательными людьми",
+    "genre": "эзотерика",
+    "order": 1
+  },
+  {
+    "id": "gurdjieff-2",
+    "author_id": "gurdjieff",
+    "title": "Рассказы Вельзевула своему внуку",
+    "genre": "эзотерика",
+    "order": 2
+  },
+  {
+    "id": "zeland-1",
+    "author_id": "zeland",
+    "title": "Трансерфинг реальности. Ступень I. Пространство вариантов",
+    "genre": "эзотерика",
+    "order": 1
+  },
+  {
+    "id": "zeland-2",
+    "author_id": "zeland",
+    "title": "Трансерфинг реальности. Ступень II. Шелест утренних звёзд",
+    "genre": "эзотерика",
+    "order": 2
+  },
+  {
+    "id": "zeland-3",
+    "author_id": "zeland",
+    "title": "Трансерфинг реальности. Ступень III. Вперёд в прошлое",
+    "genre": "эзотерика",
+    "order": 3
+  },
+  {
+    "id": "zeland-4",
+    "author_id": "zeland",
+    "title": "Трансерфинг реальности. Ступень IV. Управление реальностью",
+    "genre": "эзотерика",
+    "order": 4
+  },
+  {
+    "id": "zeland-5",
+    "author_id": "zeland",
+    "title": "Трансерфинг реальности. Ступень V. Яблоки падают в небо",
+    "genre": "эзотерика",
+    "order": 5
+  },
+  {
+    "id": "tolstoy-1",
+    "author_id": "tolstoy",
+    "title": "Война и мир",
+    "genre": "проза",
+    "order": 1
+  },
+  {
+    "id": "tolstoy-2",
+    "author_id": "tolstoy",
+    "title": "Исповедь",
+    "genre": "философия",
+    "order": 2
+  },
+  {
+    "id": "dostoevsky-1",
+    "author_id": "dostoevsky",
+    "title": "Преступление и наказание",
+    "genre": "проза",
+    "order": 1
+  },
+  {
+    "id": "dostoevsky-2",
+    "author_id": "dostoevsky",
+    "title": "Братья Карамазовы",
+    "genre": "проза",
+    "order": 2
+  },
+  {
+    "id": "descartes-1",
+    "author_id": "descartes",
+    "title": "Рассуждение о методе",
+    "genre": "философия",
+    "order": 1
+  },
+  {
+    "id": "descartes-2",
+    "author_id": "descartes",
+    "title": "Размышления о первой философии",
+    "genre": "философия",
+    "order": 2
+  },
+  {
+    "id": "spinoza-1",
+    "author_id": "spinoza",
+    "title": "Этика",
+    "genre": "этика",
+    "order": 1
+  },
+  {
+    "id": "spinoza-2",
+    "author_id": "spinoza",
+    "title": "Богословско-политический трактат",
+    "genre": "философия",
+    "order": 2
+  },
+  {
+    "id": "kant-1",
+    "author_id": "kant",
+    "title": "Критика чистого разума",
+    "genre": "философия",
+    "order": 1
+  },
+  {
+    "id": "kant-2",
+    "author_id": "kant",
+    "title": "Критика практического разума",
+    "genre": "этика",
+    "order": 2
+  },
+  {
+    "id": "kant-3",
+    "author_id": "kant",
+    "title": "Критика способности суждения",
+    "genre": "философия",
+    "order": 3
+  },
+  {
+    "id": "goethe-1",
+    "author_id": "goethe",
+    "title": "Страдания юного Вертера",
+    "genre": "проза",
+    "order": 1
+  },
+  {
+    "id": "goethe-2",
+    "author_id": "goethe",
+    "title": "Фауст",
+    "genre": "поэзия",
+    "order": 2
+  },
+  {
+    "id": "hegel-1",
+    "author_id": "hegel",
+    "title": "Феноменология духа",
+    "genre": "философия",
+    "order": 1
+  },
+  {
+    "id": "hegel-2",
+    "author_id": "hegel",
+    "title": "Наука логики",
+    "genre": "философия",
+    "order": 2
+  },
+  {
+    "id": "hegel-3",
+    "author_id": "hegel",
+    "title": "Философия истории",
+    "genre": "философия",
+    "order": 3
+  },
+  {
+    "id": "schopenhauer-1",
+    "author_id": "schopenhauer",
+    "title": "Мир как воля и представление",
+    "genre": "философия",
+    "order": 1
+  },
+  {
+    "id": "schopenhauer-2",
+    "author_id": "schopenhauer",
+    "title": "Афоризмы житейской мудрости",
+    "genre": "этика",
+    "order": 2
+  },
+  {
+    "id": "nietzsche-1",
+    "author_id": "nietzsche",
+    "title": "Так говорил Заратустра",
+    "genre": "философия",
+    "order": 1
+  },
+  {
+    "id": "nietzsche-2",
+    "author_id": "nietzsche",
+    "title": "По ту сторону добра и зла",
+    "genre": "этика",
+    "order": 2
+  },
+  {
+    "id": "nietzsche-3",
+    "author_id": "nietzsche",
+    "title": "Генеалогия морали",
+    "genre": "этика",
+    "order": 3
+  },
+  {
+    "id": "heidegger-1",
+    "author_id": "heidegger",
+    "title": "Бытие и время",
+    "genre": "философия",
+    "order": 1
+  },
+  {
+    "id": "heidegger-2",
+    "author_id": "heidegger",
+    "title": "Исток художественного творения",
+    "genre": "философия",
+    "order": 2
+  },
+  {
+    "id": "wittgenstein-1",
+    "author_id": "wittgenstein",
+    "title": "Логико-философский трактат",
+    "genre": "философия",
+    "order": 1
+  },
+  {
+    "id": "wittgenstein-2",
+    "author_id": "wittgenstein",
+    "title": "Философские исследования",
+    "genre": "философия",
+    "order": 2
+  },
+  {
+    "id": "kierkegaard-1",
+    "author_id": "kierkegaard",
+    "title": "Или-или",
+    "genre": "философия",
+    "order": 1
+  },
+  {
+    "id": "kierkegaard-2",
+    "author_id": "kierkegaard",
+    "title": "Страх и трепет",
+    "genre": "философия",
+    "order": 2
+  },
+  {
+    "id": "kierkegaard-3",
+    "author_id": "kierkegaard",
+    "title": "Понятие страха",
+    "genre": "философия",
+    "order": 3
+  },
+  {
+    "id": "sartre-1",
+    "author_id": "sartre",
+    "title": "Тошнота",
+    "genre": "проза",
+    "order": 1
+  },
+  {
+    "id": "sartre-2",
+    "author_id": "sartre",
+    "title": "Бытие и ничто",
+    "genre": "философия",
+    "order": 2
+  },
+  {
+    "id": "sartre-3",
+    "author_id": "sartre",
+    "title": "Экзистенциализм — это гуманизм",
+    "genre": "философия",
+    "order": 3
+  },
+  {
+    "id": "camus-1",
+    "author_id": "camus",
+    "title": "Миф о Сизифе",
+    "genre": "философия",
+    "order": 1
+  },
+  {
+    "id": "camus-2",
+    "author_id": "camus",
+    "title": "Чума",
+    "genre": "проза",
+    "order": 2
+  },
+  {
+    "id": "camus-3",
+    "author_id": "camus",
+    "title": "Бунтующий человек",
+    "genre": "философия",
+    "order": 3
+  },
+  {
+    "id": "frankl-1",
+    "author_id": "frankl",
+    "title": "Человек в поисках смысла",
+    "genre": "психология",
+    "order": 1
+  },
+  {
+    "id": "frankl-2",
+    "author_id": "frankl",
+    "title": "Сказать жизни «Да!»",
+    "genre": "психология",
+    "order": 2
+  },
+  {
+    "id": "machiavelli-1",
+    "author_id": "machiavelli",
+    "title": "Государь",
+    "genre": "политика",
+    "order": 1
+  },
+  {
+    "id": "machiavelli-2",
+    "author_id": "machiavelli",
+    "title": "Рассуждения о первой декаде Тита Ливия",
+    "genre": "политика",
+    "order": 2
+  },
+  {
+    "id": "hobbes-1",
+    "author_id": "hobbes",
+    "title": "О гражданине",
+    "genre": "политика",
+    "order": 1
+  },
+  {
+    "id": "hobbes-2",
+    "author_id": "hobbes",
+    "title": "Левиафан",
+    "genre": "политика",
+    "order": 2
+  },
+  {
+    "id": "locke-1",
+    "author_id": "locke",
+    "title": "Два трактата о правлении",
+    "genre": "политика",
+    "order": 1
+  },
+  {
+    "id": "locke-2",
+    "author_id": "locke",
+    "title": "Опыт о человеческом разумении",
+    "genre": "философия",
+    "order": 2
+  },
+  {
+    "id": "rousseau-1",
+    "author_id": "rousseau",
+    "title": "Об общественном договоре",
+    "genre": "политика",
+    "order": 1
+  },
+  {
+    "id": "rousseau-2",
+    "author_id": "rousseau",
+    "title": "Эмиль, или О воспитании",
+    "genre": "педагогика",
+    "order": 2
+  },
+  {
+    "id": "marx-1",
+    "author_id": "marx",
+    "title": "Экономическо-философские рукописи 1844 года",
+    "genre": "философия",
+    "order": 1
+  },
+  {
+    "id": "marx-2",
+    "author_id": "marx",
+    "title": "Манифест Коммунистической партии",
+    "genre": "политика",
+    "order": 2
+  },
+  {
+    "id": "marx-3",
+    "author_id": "marx",
+    "title": "Капитал",
+    "genre": "экономика",
+    "order": 3
+  },
+  {
+    "id": "ortega-1",
+    "author_id": "ortega",
+    "title": "Восстание масс",
+    "genre": "философия",
+    "order": 1
+  },
+  {
+    "id": "ortega-2",
+    "author_id": "ortega",
+    "title": "Дегуманизация искусства",
+    "genre": "эссе",
+    "order": 2
+  },
+  {
+    "id": "arendt-1",
+    "author_id": "arendt",
+    "title": "Истоки тоталитаризма",
+    "genre": "политика",
+    "order": 1
+  },
+  {
+    "id": "arendt-2",
+    "author_id": "arendt",
+    "title": "Банальность зла: Эйхман в Иерусалиме",
+    "genre": "политика",
+    "order": 2
+  },
+  {
+    "id": "foucault-1",
+    "author_id": "foucault",
+    "title": "История безумия в классическую эпоху",
+    "genre": "философия",
+    "order": 1
+  },
+  {
+    "id": "foucault-2",
+    "author_id": "foucault",
+    "title": "Слова и вещи",
+    "genre": "философия",
+    "order": 2
+  },
+  {
+    "id": "foucault-3",
+    "author_id": "foucault",
+    "title": "Надзирать и наказывать",
+    "genre": "политика",
+    "order": 3
+  },
+  {
+    "id": "freud-1",
+    "author_id": "freud",
+    "title": "Толкование сновидений",
+    "genre": "психология",
+    "order": 1
+  },
+  {
+    "id": "freud-2",
+    "author_id": "freud",
+    "title": "Я и Оно",
+    "genre": "психология",
+    "order": 2
+  },
+  {
+    "id": "freud-3",
+    "author_id": "freud",
+    "title": "Недовольство культурой",
+    "genre": "психология",
+    "order": 3
+  },
+  {
+    "id": "adler-1",
+    "author_id": "adler",
+    "title": "Понять природу человека",
+    "genre": "психология",
+    "order": 1
+  },
+  {
+    "id": "adler-2",
+    "author_id": "adler",
+    "title": "Наука жить",
+    "genre": "психология",
+    "order": 2
+  },
+  {
+    "id": "jung-1",
+    "author_id": "jung",
+    "title": "Психологические типы",
+    "genre": "психология",
+    "order": 1
+  },
+  {
+    "id": "jung-2",
+    "author_id": "jung",
+    "title": "Архетипы и коллективное бессознательное",
+    "genre": "психология",
+    "order": 2
+  },
+  {
+    "id": "jung-3",
+    "author_id": "jung",
+    "title": "Человек и его символы",
+    "genre": "психология",
+    "order": 3
+  },
+  {
+    "id": "horney-1",
+    "author_id": "horney",
+    "title": "Невротическая личность нашего времени",
+    "genre": "психология",
+    "order": 1
+  },
+  {
+    "id": "vygotsky-1",
+    "author_id": "vygotsky",
+    "title": "Мышление и речь",
+    "genre": "психология",
+    "order": 1
+  },
+  {
+    "id": "fromm-1",
+    "author_id": "fromm",
+    "title": "Бегство от свободы",
+    "genre": "психология",
+    "order": 1
+  },
+  {
+    "id": "fromm-2",
+    "author_id": "fromm",
+    "title": "Искусство любить",
+    "genre": "психология",
+    "order": 2
+  },
+  {
+    "id": "fromm-3",
+    "author_id": "fromm",
+    "title": "Иметь или быть?",
+    "genre": "философия",
+    "order": 3
+  },
+  {
+    "id": "erikson-1",
+    "author_id": "erikson",
+    "title": "Детство и общество",
+    "genre": "психология",
+    "order": 1
+  },
+  {
+    "id": "berne-1",
+    "author_id": "berne",
+    "title": "Игры, в которые играют люди",
+    "genre": "психология",
+    "order": 1
+  },
+  {
+    "id": "maslow-1",
+    "author_id": "maslow",
+    "title": "Мотивация и личность",
+    "genre": "психология",
+    "order": 1
+  },
+  {
+    "id": "rogers-1",
+    "author_id": "rogers",
+    "title": "Становление личности",
+    "genre": "психология",
+    "order": 1
+  },
+  {
+    "id": "yalom-1",
+    "author_id": "yalom",
+    "title": "Экзистенциальная психотерапия",
+    "genre": "психология",
+    "order": 1
+  },
+  {
+    "id": "seligman-1",
+    "author_id": "seligman",
+    "title": "Как научиться оптимизму",
+    "genre": "психология",
+    "order": 1
+  },
+  {
+    "id": "cialdini-1",
+    "author_id": "cialdini",
+    "title": "Психология влияния",
+    "genre": "психология",
+    "order": 1
+  },
+  {
+    "id": "kahneman-1",
+    "author_id": "kahneman",
+    "title": "Думай медленно… решай быстро",
+    "genre": "психология",
+    "order": 1
+  },
+  {
+    "id": "peterson-1",
+    "author_id": "peterson",
+    "title": "Карты смысла",
+    "genre": "психология",
+    "order": 1
+  },
+  {
+    "id": "peterson-2",
+    "author_id": "peterson",
+    "title": "12 правил жизни",
+    "genre": "психология",
+    "order": 2
+  },
+  {
+    "id": "hazlitt-1",
+    "author_id": "hazlitt",
+    "title": "Экономика за один урок",
+    "genre": "экономика",
+    "order": 1
+  },
+  {
+    "id": "sowell-1",
+    "author_id": "sowell",
+    "title": "Basic Economics",
+    "genre": "экономика",
+    "order": 1
+  },
+  {
+    "id": "mankiw-1",
+    "author_id": "mankiw",
+    "title": "Принципы экономикс",
+    "genre": "экономика",
+    "order": 1
+  },
+  {
+    "id": "housel-1",
+    "author_id": "housel",
+    "title": "Психология денег",
+    "genre": "финансы",
+    "order": 1
+  },
+  {
+    "id": "smith-1",
+    "author_id": "smith",
+    "title": "Исследование о природе и причинах богатства народов",
+    "genre": "экономика",
+    "order": 1
+  },
+  {
+    "id": "ricardo-1",
+    "author_id": "ricardo",
+    "title": "Начала политической экономии",
+    "genre": "экономика",
+    "order": 1
+  },
+  {
+    "id": "keynes-1",
+    "author_id": "keynes",
+    "title": "Общая теория занятости, процента и денег",
+    "genre": "экономика",
+    "order": 1
+  },
+  {
+    "id": "hayek-1",
+    "author_id": "hayek",
+    "title": "Дорога к рабству",
+    "genre": "политика",
+    "order": 1
+  },
+  {
+    "id": "mises-1",
+    "author_id": "mises",
+    "title": "Человеческая деятельность",
+    "genre": "экономика",
+    "order": 1
+  },
+  {
+    "id": "schumpeter-1",
+    "author_id": "schumpeter",
+    "title": "Капитализм, социализм и демократия",
+    "genre": "экономика",
+    "order": 1
+  },
+  {
+    "id": "friedman-1",
+    "author_id": "friedman",
+    "title": "Капитализм и свобода",
+    "genre": "экономика",
+    "order": 1
+  },
+  {
+    "id": "acemoglu-1",
+    "author_id": "acemoglu",
+    "title": "Почему одни страны богатые, а другие бедные",
+    "genre": "экономика",
+    "order": 1,
+    "also": [
+      "robinson"
+    ]
+  },
+  {
+    "id": "piketty-1",
+    "author_id": "piketty",
+    "title": "Капитал в XXI веке",
+    "genre": "экономика",
+    "order": 1
+  },
+  {
+    "id": "dalio-1",
+    "author_id": "dalio",
+    "title": "Принципы",
+    "genre": "финансы",
+    "order": 1
+  },
+  {
+    "id": "dalio-2",
+    "author_id": "dalio",
+    "title": "Большие долговые кризисы",
+    "genre": "экономика",
+    "order": 2
+  },
+  {
+    "id": "dalio-3",
+    "author_id": "dalio",
+    "title": "Принципы работы с меняющимся мировым порядком",
+    "genre": "экономика",
+    "order": 3
+  },
+  {
+    "id": "taleb-1",
+    "author_id": "taleb",
+    "title": "Чёрный лебедь",
+    "genre": "философия",
+    "order": 1
+  },
+  {
+    "id": "taleb-2",
+    "author_id": "taleb",
+    "title": "Антихрупкость",
+    "genre": "философия",
+    "order": 2
+  },
+  {
+    "id": "graham-1",
+    "author_id": "graham",
+    "title": "Разумный инвестор",
+    "genre": "финансы",
+    "order": 1
+  },
+  {
+    "id": "buffett-1",
+    "author_id": "buffett",
+    "title": "Письма акционерам",
+    "genre": "финансы",
+    "order": 1
+  },
+  {
+    "id": "thiel-1",
+    "author_id": "thiel",
+    "title": "От нуля к единице",
+    "genre": "бизнес",
+    "order": 1
+  }
+]
